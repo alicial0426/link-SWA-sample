@@ -1,0 +1,2 @@
+# link-SWA-sample
+StaticWebAppsと関連付けるAppServiceのサンプルプロジェクト
